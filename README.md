@@ -3,10 +3,10 @@
 
 ### windows OS terminal:
 ```
-$ CertUtil -hashfile C:\myFile.txt sha256
+$ CertUtil -hashfile C:\file_name.iso sha256
 ```
 
 ### fedora / debian terminal: 
 ```
-$ sha256sum file_name
+$ sha256sum file_name.iso
 ```
